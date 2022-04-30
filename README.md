@@ -2,6 +2,7 @@ run in localhost 8000 from app folder:
 python .\manage.py runserver
 
 Add HTTP Authorization header:
+
     Bearer Token: "allow"
 
 ## POST /route/
